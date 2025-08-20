@@ -20,7 +20,7 @@ PRIVATE_KEY=..................//bỏ 0x ở đầu
 ```shell
 set TIMES=10// thay 10 là số tx muốn mine
 ```
-- Sửa file mint.txt thành mint.bat, rồi click đúp là chạy mine. Mỗi tx là 3 nfts
+- Sửa file mint.txt thành mine.bat, rồi click đúp là chạy mint. Mỗi tx là 3 nfts
 
 
 
